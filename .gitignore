@@ -6,3 +6,10 @@
 
 # R data files from past sessions
 .Rdata
+
+# OS X hidden files
+.DS_Store
+
+# Substantive files
+.txt
+.zip
